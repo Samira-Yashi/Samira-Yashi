@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Samira Yashi and I am a data analyst
+- 📌check this out https://myfol.io/samira-musa-yashi
 - 👀 I’m interested in data analysis and remote work
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on experience and tips for smooth transition to Tech
